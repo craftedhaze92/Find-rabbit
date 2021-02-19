@@ -1,0 +1,20 @@
+body {
+  background-color: #fff7d1;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+  background: linear-gradient(to bottom, rgb(238, 165, 9), rgb(210, 29, 226));
+  border-radius: 4px;
+}
+
+button {
+  font-size: 25px;
+  margin: 16px 0;
+  outline: auto;
+  color: white;
+  background-color: tomato;
+  cursor: pointer;
+}
