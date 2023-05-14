@@ -1,7 +1,7 @@
 # Find-rabbit
 
 - 토끼를 찾자~! <br>
-- 버튼 클릭시 토끼화면으로 이동
+- click 이벤트 발생시 scrollIntoView로 target(rabbit)으로 이동하는 기능
 - https://dohyunhwang.github.io/Find-rabbit/.
   <br>
 
